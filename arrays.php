@@ -167,4 +167,9 @@
     print_r($person);
     echo '</pre>';
     echo "<br> ----------------- <br>";
+
+    /*
+    INFO : Array fonksiyonları ile ilgili daha fazla bilgi almak için aşağıdaki linkleri inceleyebilirsiniz.
+    https://www.php.net/manual/en/ref.array.php
+    */
 ?>
