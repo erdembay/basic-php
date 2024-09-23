@@ -69,4 +69,9 @@
     => Github Copilot cevapladı.
     */
     echo "<br> ----------------- <br>";
+    /*
+    INFO: SWITCH CASE VE MATCH İLE İLGİLİ BİLGİLER İÇİN AŞAĞIDAKİ LİNKE TIKLAYINIZ.
+    Switch Case =>  https://www.php.net/manual/en/control-structures.switch.php
+    Match => https://www.php.net/manual/en/control-structures.match.php
+    */
 ?>
