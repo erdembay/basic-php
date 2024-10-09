@@ -18,4 +18,10 @@
             echo '<br>';
     }
     printPersons($persons);
+    $json = json_encode($persons);
+    echo $json;
+    echo '<br>';
+    $array = json_decode($json);
+    print_r($array);
+
 ?>
